@@ -1,6 +1,9 @@
 ### Welcome to my Github Profile!
 
 <hr>
+
+<img src="PersonalPhoto.jp" height="180px" width="180px">
+
 <!--Personal Information-->
 <details>
   <summary>About Me</summary>  
