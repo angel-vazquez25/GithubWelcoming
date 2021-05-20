@@ -3,7 +3,7 @@
 <hr>
 <p align="center">
     <a>
-        <img src="PersonalPhoto.png" height="260px" width="260px">
+        <img src="PersonalPhoto.png" height="300px" width="300px">
     </a>
 </p>
 <!--Personal Information-->
