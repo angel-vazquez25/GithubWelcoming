@@ -1,9 +1,9 @@
 ### Welcome to my Github Profile!
 
 <hr>
-
-<img src="PersonalPhoto.png" height="180px" width="180px">
-
+<a align="center">
+    <img src="PersonalPhoto.png" height="260px" width="260px">
+</a>
 <!--Personal Information-->
 <details>
   <summary>About Me</summary>  
