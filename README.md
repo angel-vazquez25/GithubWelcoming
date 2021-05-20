@@ -96,6 +96,10 @@
   <a href="https://drive.google.com/drive/folders/1naszFHJGFw6txtoOFZIhiwTU0AeUf4_F?usp=sharing"> 
     <img src="PersonalInfoIcon.png" height="60px" width="60px">
   </a>
+  </a>
+  <a href="https://twitter.com/KenDev18"> 
+    <img src="twittericon.jpg" height="60px" width="60px">
+  </a>
  </p>
 
 </hr>
