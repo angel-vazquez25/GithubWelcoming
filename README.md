@@ -2,7 +2,7 @@
 
 <hr>
 
-<img src="PersonalPhoto.jp" height="180px" width="180px">
+<img src="PersonalPhoto.png" height="180px" width="180px">
 
 <!--Personal Information-->
 <details>
