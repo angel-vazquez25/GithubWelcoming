@@ -83,7 +83,7 @@
 <details>
   <summary>My Most Used Editors</summary>
   <p align="center">
-    <img src="https://wakatime.com/share/@94603174-22ee-4833-a77d-9a5bacb8e15a/3eda63dc-3f5b-472c-9222-8e4710a8afa4.svg" height="400"/>
+    <img src="https://wakatime.com/share/@94603174-22ee-4833-a77d-9a5bacb8e15a/75d66127-118b-4cb9-a881-9906ea11c317.svg" height="400"/>
   </p>
 </details>
 
