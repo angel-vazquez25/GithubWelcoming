@@ -69,7 +69,7 @@
 <details>
   <summary>My GitHub Statistics</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=angel-vazquez25&count_private=trueshow_icons=true&theme=tokyonight)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=angel-vazquez25&count_private=trueshow_icons=true&theme=tokyonight"/>
   </p>
 </details>
 
