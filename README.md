@@ -76,7 +76,7 @@
 <details>
   <summary>Programming Language Statistics</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-vazquez25&layout=compact"/>
+    <img src="https://wakatime.com/share/@94603174-22ee-4833-a77d-9a5bacb8e15a/bf2ce0ee-ac41-4e1c-ba15-08f081010e0b.svg"/>
   </p>
 </details>
 
