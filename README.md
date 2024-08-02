@@ -65,14 +65,14 @@
 <details>
   <summary>My GitHub Statistics</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=angel-vazquez25&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=angel-vazquez25&show_icons=false"/>
   </p>
 </details>
 
 <details>
   <summary>Programming Language Statistics</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-vazquez25&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-vazquez25"/>
   </p>
 </details>
 
