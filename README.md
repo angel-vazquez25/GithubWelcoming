@@ -57,7 +57,7 @@
 
   Project     | Location
  ----------- | --------|
-La Vellonera de la Cueva | [Repo](https://github.com/angel-vazquez25/La_Vellonera_de_la_Cueva)
+Discord Music Bot | [Repo](https://github.com/angel-vazquez25/La_Vellonera_de_la_Cueva)
 Other Projects | [My Profile](https://github.com/angel-vazquez25)|
 
 </details>
